@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "Imagine a baker made a giant cookie that's perfectly round. He cuts it into exactly 4 equal slices. What fraction of the whole cookie is each slice?",
+        "options": {
+            "A": "1/8",
+            "B": "1/2",
+            "C": "1/4",
+            "D": "3/4"
+        },
+        "correct": "C"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "Beatrice baked a batch of rectangular cookies. Each cookie is 3 inches long and 2 inches wide. If she wants to arrange them in a single row to make one long snack bar that is exactly 36 inches long, how many cookies does she need?",
+        "options": {
+            "A": "6",
+            "B": "12",
+            "C": "18",
+            "D": "24"
+        },
+        "correct": "B"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "If a pizza is cut into 8 equal slices, and you eat 3 slices, what fraction of the pizza did you NOT eat?",
+        "options": {
+            "A": "3/8",
+            "B": "5/8",
+            "C": "1/2",
+            "D": "1/4"
+        },
+        "correct": "B"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "A baker made a giant cookie in the shape of a star. If the star has 5 points, and she puts a chocolate chip on each point, how many chocolate chips did she use in total?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "correct": "C"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "A baker made a giant cookie shaped like a star. He wants to put sprinkles on it. If the star has 5 points, and he puts 3 sprinkles on each point, how many sprinkles did he use in total?",
+        "options": {
+            "A": "8",
+            "B": "15",
+            "C": "2",
+            "D": "35"
+        },
+        "correct": "B"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "Imagine you're building a tower with blocks. You place 3 blocks on the bottom, then 2 blocks on top of those, and finally 1 block on the very top. How many blocks did you use in total to build your tower?",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        },
+        "correct": "C"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "A snail is climbing a very slippery 10-inch wall. It climbs 3 inches every hour, but then slides down 1 inch every hour. How many hours will it take the snail to reach the top of the wall?",
+        "options": {
+            "A": "5 hours",
+            "B": "4 hours",
+            "C": "6 hours",
+            "D": "7 hours"
+        },
+        "correct": "B"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "Imagine you're stacking donuts in a tower. You have 3 glazed, 2 chocolate, and 1 jelly donut. How many different ways can you stack the donuts if you only care about the order of the *flavors* and not individual donuts?",
+        "options": {
+            "A": "6",
+            "B": "120",
+            "C": "60",
+            "D": "360"
+        },
+        "correct": "C"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "Grandma Betty baked a pie and cut it into 8 equal slices. Timmy ate 2 slices, and his sister Lily ate 1 slice. What fraction of the pie is left?",
+        "options": {
+            "A": "3/8",
+            "B": "4/8",
+            "C": "5/8",
+            "D": "6/8"
+        },
+        "correct": "C"
+    },
+    {
+        "subject": "Math",
+        "level": "easy",
+        "question": "Imagine a quirky clock where the hour hand only moves forward 2 hours at a time. If it starts at 1 o'clock, what time will it show after 3 \"ticks\"?",
+        "options": {
+            "A": "5 o'clock",
+            "B": "7 o'clock",
+            "C": "9 o'clock",
+            "D": "11 o'clock"
+        },
+        "correct": "B"
+    }
+]
