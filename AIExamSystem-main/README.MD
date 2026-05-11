@@ -111,16 +111,5 @@ Compile and run the Java file.
 
 - JWT Authentication for secure user management.
 
----
 
-## 👨‍💻 Author
-Ebrahim Abdul Raoof
 
-[LinkedIn](https://www.linkedin.com/in/ebrahim-ar/)
-
-[GitHub](https://github.com/EbrahimAR)
-
----
-
-## 📜 License
-This project is licensed under the MIT License. See [LICENSE](https://github.com/EbrahimAR/AIExamSystem/blob/main/LICENSE) for details.
